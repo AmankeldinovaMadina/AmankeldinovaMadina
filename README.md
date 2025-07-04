@@ -1,4 +1,19 @@
-## Hi there 👋
+</p> 👋 Hi, I'm Madina Amankeldinova
+
+🎓 CS student @ Nazarbayev University (2023–2027)   
+
+---
+
+## 🔧 Tech Stack  
+**Languages:** Python, Swift, JavaScript, C++  
+**Tools:** FastAPI, React, Node.js, MongoDB, Flutter, ONNX, WebGPU, LangChain  
+
+
+---
+
+## 📫 Reach Me
+
+[LinkedIn](https://linkedin.com/in/madina-amankeldinova) · [GitHub](https://github.com/AmankeldinovaMadina) · madina.amankeldinova@nu.edu.kz
 
 <!--
 **AmankeldinovaMadina/AmankeldinovaMadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
