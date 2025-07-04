@@ -5,8 +5,8 @@
 ---
 
 ## 🔧 Tech Stack  
-**Languages:** Python, Swift, JavaScript, C++  
-**Tools:** FastAPI, React, Node.js, MongoDB, Flutter, ONNX, WebGPU, LangChain  
+**Languages:** Python, Swift, JavaScript, C++, C, Dart
+**Tools:** FastAPI, React, Node.js, MongoDB, Flutter, LangChain  
 
 
 ---
