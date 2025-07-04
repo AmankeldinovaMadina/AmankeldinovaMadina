@@ -13,7 +13,7 @@
 
 ## 📫 Reach Me
 
-[LinkedIn](https://linkedin.com/in/madina-amankeldinova) · [GitHub](https://github.com/AmankeldinovaMadina) · madina.amankeldinova@nu.edu.kz
+[LinkedIn]([https://linkedin.com/in/madina-amankeldinova](https://www.linkedin.com/in/madina-amankeldinova-800772256/)) · [GitHub](https://github.com/AmankeldinovaMadina) · madina.amankeldinova@nu.edu.kz
 
 <!--
 **AmankeldinovaMadina/AmankeldinovaMadina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
