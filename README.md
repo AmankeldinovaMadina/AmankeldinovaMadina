@@ -19,7 +19,7 @@
   <summary>✅ Leetcode</summary>
   <div dir="auto" align="center">
     <a href="https://leetcode.com/u/madinaamankeldniova/">
-    <img align="center" src="https://leetcard.jacoblin.cool/madinaamankeldniova" />
+    <img align="center" src="https://leetcode-stats.vercel.app/api?username=madinaamankeldniova&theme=dark" />
   </a>
   </div>
 </details>
