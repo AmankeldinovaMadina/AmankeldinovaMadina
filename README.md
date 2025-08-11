@@ -36,7 +36,7 @@
   </p>
 <br/>
 <i>
-  outwork them all.
+
 </i>
 
 ---
